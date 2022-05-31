@@ -50,10 +50,18 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/pedrodiogop">
+      <a href="https://github.com/pedrodiogop">https://github.com/SeNai
         <img src="https://avatars.githubusercontent.com/u/105749703?v=4" width="100px;" alt="Pedro Diogo"/><br>
         <sub>
           <b>Amigo do amigo</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SeNai">
+        <img src="https://avatars.githubusercontent.com/u/106622596?v=4" width="100px;" alt="Gomes"/><br>
+        <sub>
+          <b>Senai</b>
         </sub>
       </a>
     </td>
