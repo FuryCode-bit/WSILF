@@ -1,6 +1,3 @@
-# WSILF
-WEB SERVER so old that even as a newborn, he is already in his late 40s...
-
 # Welcome to the WSILF Repo!
 A WEB Server so old that even as a newborn, he is already in his late 40s...
 
