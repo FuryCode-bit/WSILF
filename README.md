@@ -10,7 +10,7 @@ A WEB Server so old that even as a newborn, he is already in his late 40s...
 
 <img src="https://programadoresbrasil.com.br/wp-content/uploads/2020/05/C-programming-1024x530-1.jpg" alt="Feito em C">
 
-> Código relativo ao trabalho prático em grupo da unidade curricular de Laboratórios de Programação.
+> Código relativo ao trabalho prático em grupo da unidade curricular de Sistemas Operativos.
 
 ### Ajustes e melhorias
 
