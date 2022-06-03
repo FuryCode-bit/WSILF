@@ -1,0 +1,20 @@
+Library used by PTEID
+Compiles ok 
+
+see test for example
+
+unsigned char tmp[20];
+hash_state md;
+unsigned char *msg="abc";
+
+sha1_init(&md);
+sha1_process(&md, msg, (unsigned long)strlen(msg));
+sha1_done(&md, tmp);
+for (i=0;i<20;i++)
+    printf("ox ", md[i]);
+
+
+cc -c *.c
+cc -o example example.c sha1.o
+
+Better is to add to a static library
